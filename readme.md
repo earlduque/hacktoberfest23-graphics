@@ -1,11 +1,15 @@
 ## Generic banner
 
-![generic banner](hacktoberfest23genericbanner.png)
+![generic banner](/Covers/hacktoberfest23genericbanner.png)
 
 ## Full banner
 
-![full banner](hacktoberfest23banner.gif)
+![full banner](/Covers/hacktoberfest23banner.gif)
 
 ## Crew banner
 
-![crew banner](hacktoberfest23crew.gif)
+![crew banner](/Crew/hacktoberfest23crew.gif)
+
+## Project Banners
+
+![project cover](/ProjectBanners/1.png)
